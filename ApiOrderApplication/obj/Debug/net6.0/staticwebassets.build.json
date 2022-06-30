@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q+l9Uu5LATJor1oHKV6bmNcJGB0E2gzdgHxZWDAR5oQ=",
+  "Source": "ApiOrderApplication",
+  "BasePath": "_content/ApiOrderApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
